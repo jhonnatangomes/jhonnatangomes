@@ -18,13 +18,11 @@ I'm a 22 year-old Brazilian passionate about programming. I've made some nice pr
 
 <details>
     <summary>Github Stats</summary>
-
-    <img src="https://github-readme-stats.vercel.app/api?username=jhonnatangomes" />
+    <img align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=jhonnatangomes" />
 </details>
 
 <details>
     <summary>Most Used Languages</summary>
-
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnatangomes"/>
 </details>
 
