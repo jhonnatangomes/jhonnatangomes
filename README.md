@@ -24,6 +24,7 @@ I'm a 22 year-old Brazilian passionate about programming. I've made some nice pr
 
 ### Here are the tools and languages I have experience with
 
+<p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
@@ -43,7 +44,8 @@ I'm a 22 year-old Brazilian passionate about programming. I've made some nice pr
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-
+</p>
+    
 <details>
     <summary>Github Stats</summary>
     <img align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=jhonnatangomes" />
