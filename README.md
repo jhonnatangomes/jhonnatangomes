@@ -60,5 +60,5 @@ I'm a 22 year-old Brazilian passionate about programming. I've made some nice pr
 [trackit]: https://trackit-tau.vercel.app/
 [linkr]: https://linkr-smoky-one.vercel.app/
 [mywallet]: http://my-wallet-frontend-blush.vercel.app/
-[gmail]: mailto:jhonnatangomes05@gmail.com
+[gmail]: mailto:jhonnatan.gomes.pereira@gmail.com
 [gratibox]: https://gratibox-front-end.vercel.app/
