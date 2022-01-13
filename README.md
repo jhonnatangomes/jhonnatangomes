@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Jhonn
 
-## I'm an aspiring software engineer and a part-time poker player
+## I'm a Brazilian Software Engineer
 
 I'm a 22 year-old Brazilian passionate about programming. I've made some nice projects that you can find [here]. In my spare time, I like to play poker and all kinds of strategy games. Among the projects I made are:
 
