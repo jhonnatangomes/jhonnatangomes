@@ -21,6 +21,7 @@ I'm a 22 year-old Brazilian passionate about programming. I've made some nice pr
 #### You can contact me here:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 ### Here are the tools and languages I have experience with
 
@@ -63,4 +64,5 @@ I'm a 22 year-old Brazilian passionate about programming. I've made some nice pr
 [linkr]: https://linkr-smoky-one.vercel.app/
 [mywallet]: http://my-wallet-frontend-blush.vercel.app/
 [gmail]: mailto:jhonnatan.gomes.pereira@gmail.com
+[linkedin]: https://www.linkedin.com/in/jhonnatan-gomes/
 [gratibox]: https://gratibox-front-end.vercel.app/
